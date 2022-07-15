@@ -1,15 +1,15 @@
 {
 	"playlist": [{
-			"judul": "aaa",
-			"url": "aaa"
+			"judul": "Lagu Arab",
+			"url": "https://ia801703.us.archive.org/12/items/biarkan-semua-berlalu-feat-dj-desa-official-nofin-asia-remix/BIARKAN%20SEMUA%20BERLALU%20feat%20DJ%20DESA%20OFFICIAL%20NOFIN%20ASIA%20REMIX.mp3"
 		},
 		{
-			"judul": "bbb",
-			"url": "bbb"
+			"judul": "Lagu India",
+			"url": "https://ia801805.us.archive.org/16/items/dj-india-santuy-vaaste-song-dj-desa-remix/DJ%20INDIA%20SANTUY%20%21%20VAASTE%20SONG%20%28%20DJ%20DESA%20Remix%20%29.mp3"
 		},
 		{
-			"judul": "ccc",
-			"url": "ccc"
+			"judul": "Lagu Mesir",
+			"url": "https://ia801803.us.archive.org/31/items/dj-india-santuy-vaaste-song-dj-desa-remix_202101/DJ%20INDIA%20SANTUY%20%21%20VAASTE%20SONG%20%28%20DJ%20DESA%20Remix%20%29.mp3"
 		}
 	]
 }

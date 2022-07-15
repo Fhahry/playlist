@@ -1,0 +1,15 @@
+{
+	"playlist": [{
+			"judul": "aaa",
+			"url": "aaa"
+		},
+		{
+			"judul": "bbb",
+			"url": "bbb"
+		},
+		{
+			"judul": "ccc",
+			"url": "ccc"
+		}
+	]
+}
